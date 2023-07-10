@@ -20,7 +20,7 @@ application.
     python3 ge103project.py
 ### Screen Shots:
 ![screen shot of graph](graph.png)
-![screen shot of map](Map.png)
+![screen shot of map](map.png)
 
 ### Contributers:
 1. [Akshit Pal](https://github.com/AkshPal)
